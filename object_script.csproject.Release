@@ -1,0 +1,10 @@
+release/cheese.o
+release/main.o
+release/jerry.o
+release/pellets.o
+release/tom.o
+release/qrc_res.o
+release/moc_cheese.o
+release/moc_jerry.o
+release/moc_pellets.o
+release/moc_tom.o

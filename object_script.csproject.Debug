@@ -1,0 +1,10 @@
+debug/cheese.o
+debug/main.o
+debug/jerry.o
+debug/pellets.o
+debug/tom.o
+debug/qrc_res.o
+debug/moc_cheese.o
+debug/moc_jerry.o
+debug/moc_pellets.o
+debug/moc_tom.o
